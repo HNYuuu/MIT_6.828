@@ -1,2 +1,2 @@
 # MIT_6.828
-Operating System course from MIT
+Operating System from MIT
